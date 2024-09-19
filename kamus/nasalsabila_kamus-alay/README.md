@@ -19,3 +19,5 @@ See publication on the link: https://ieeexplore.ieee.org/abstract/document/86291
 Regards,
 
 Salsabila, Ali, Yosef, and Ade
+
+Kamus ini telah dimodifikasi dengan menambahkan beberapa pasangan kata yang disesuaikan dengan ulasan pada Myunnes
